@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yvan
+- 👋 Hi, I’m @Yvan. 
 - 👀 I’m interested in mangas, light novel, online games, Asian culture,
 music and technology 
 - 🌱 I’m currently learning ...
