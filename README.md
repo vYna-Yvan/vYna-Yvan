@@ -10,8 +10,8 @@ Je suis un développeur passionné par la création d'expériences web interacti
 ## Stacks que j'utilise
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
--  ![React](https://img.shields.io/badge/-React-blue)
--  ![HTML](https://img.shields.io/badge/-HTML-orange)
+- ![React](https://img.shields.io/badge/-React-lightblue)
+- ![HTML](https://img.shields.io/badge/-HTML-orange)
 - ![CSS](https://img.shields.io/badge/-CSS-blue)
--  ![Sass](https://img.shields.io/badge/-Sass-pink)
+- ![Sass](https://img.shields.io/badge/-Sass-deepPink)
     
