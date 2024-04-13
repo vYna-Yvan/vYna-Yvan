@@ -13,5 +13,5 @@ Je suis un développeur passionné par la création d'expériences web interacti
 - ![React](https://img.shields.io/badge/-React-lightblue)
 - ![HTML](https://img.shields.io/badge/-HTML-orange)
 - ![CSS](https://img.shields.io/badge/-CSS-blue)
-- ![Sass](https://img.shields.io/badge/-Sass-deepPink)
+- ![Sass](https://img.shields.io/badge/-Sass-ff69b4)
     
