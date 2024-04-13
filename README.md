@@ -7,10 +7,9 @@ Je suis un développeur passionné par la création d'expériences web interacti
 💼 Actuellement à la recherche d'opportunités professionnelles  
 🌱 Toujours en train d'apprendre et d'explorer de nouveaux domaines  
 
-## Techno que j'utilise
+## Stacks que j'utilise
 
-- [React](https://img.shields.io/badge/-React-blue)
--  [JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- [Sass](https://img.shields.io/badge/-Sass-pink)
-- [HTML](https://img.shields.io/badge/-HTML-orange)
-- [CSS](https://img.shields.io/badge/-CSS-blueviolet)
+- HTML ![HTML](https://img.shields.io/badge/-HTML-orange)
+- CSS (avec SCSS) ![Sass](https://img.shields.io/badge/-Sass-pink)
+- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- React ![React](https://img.shields.io/badge/-React-blue)
