@@ -1,4 +1,4 @@
-# Salut, je suis Yvan Marville ! 👋
+# Salut, je suis Yvan ! 👋
 
 ## À propos de moi
 Je suis un développeur passionné par la création d'expériences web interactives. J'ai peut d'expérience dans le développement front-end et j'aime explorer de nouvelles technologies pour améliorer mes compétences.
